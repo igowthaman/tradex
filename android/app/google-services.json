@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733545581248",
+    "project_id": "tradex-17",
+    "storage_bucket": "tradex-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733545581248:android:b94e34544edadda5717b25",
+        "android_client_info": {
+          "package_name": "com.company.tradex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733545581248-nfpmcttddv86a90or0oa2d7i9lu6vaqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.tradex",
+            "certificate_hash": "480b1dc015a44cfef64c07b10b358ea65436f6f9"
+          }
+        },
+        {
+          "client_id": "733545581248-sfgsvbap90j6ck9sqt4d3pc3t9gsnh3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp20OrngBMpI_DsR6FnPPJRwmGG6ei56c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733545581248-sfgsvbap90j6ck9sqt4d3pc3t9gsnh3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
