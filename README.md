@@ -1,16 +1,14 @@
-# tradex
 
-A new Flutter project.
+<!-- 
+![alt text](./assets/logo1.png?width=100) -->
+<p align="center">
+  <img src="./assets/logo1.png" width="150" title="hover text">
+  <center><h1>Tradex</h1></center>
+</p>
+
+A Flutter project with Firebase.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The objective of this project is to help trades to manage their trades and analyze it efficiently
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
